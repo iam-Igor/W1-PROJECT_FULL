@@ -16,7 +16,7 @@ header {background-color: black;;height: 88px;padding-left:40px;}
 .navbar p {padding-top: 20px; margin-right: 380px;
     margin-left: 380px;padding-bottom: 30px;}
 .navbar button {width: 180px;
-    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; }
+    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; font-family: 'Montserrat', sans-serif;}
 
     /* MAIN */
     .main {height: 600px;}
