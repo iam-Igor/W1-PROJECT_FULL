@@ -16,7 +16,7 @@ header {background-color: black;text-align: center;height: 88px;}
 .navbar p {padding-top: 20px;    margin-right: 60px;
     margin-left: 60px;padding-bottom: 30px;}
 .navbar button {width: 180px;
-    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; }
+    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; font-family: 'Montserrat', sans-serif;}
 
     /* MAIN */
     .main h3 {color:#25a2c3;text-align: center;padding-top: 50px;}
