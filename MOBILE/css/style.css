@@ -1,0 +1,65 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+body {font-family: 'Open Sans', sans-serif;color:#393d41;font-size: 1.2rem;line-height: 1.65;}
+h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;font-weight: bold;line-height: 1.5;}
+
+/* HEADER */
+header img {width: 140px;padding-top:19px;}
+header {background-color: black;text-align: center;height: 88px;}
+
+/* NAV */
+.navbar {background-image: url(/images/banner.jpg);     background-size: 141%;
+    background-position-x: center;}
+.navbar {height: 400px;text-align: center;}
+.navbar h1 {font-size: 2em;padding-top: 30px;line-height: 1;padding-bottom: 20px;color:#25a2c3 }
+.navbar p {padding-top: 20px;    margin-right: 60px;
+    margin-left: 60px;padding-bottom: 30px;}
+.navbar button {width: 180px;
+    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; }
+
+    /* MAIN */
+    .main h3 {color:#25a2c3;text-align: center;padding-top: 50px;}
+    .main p {text-align: center;padding-top: 20px;    margin-right: 60px;margin-left: 60px;    margin-bottom: 30px;}
+    .notebook {border-radius: 130%;    width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;}
+
+        /* ASIDE */
+        .aside {background-color: #e22d0e;height: 330px;color:white;text-align: center;  
+              padding-top: 60px;
+              margin-bottom: 50px;}
+        .aside h1 {font-size: 2em;}
+        .aside p {    padding-top: 50px;
+            font-size: 0.9em;}
+            h5 {    padding-top: 90px;
+                font-weight: 400;
+                font-size: 1.2em;}
+                .ceo {font-size:0.6em;}
+
+                /* ARTICLES */
+.articles {width: 80%;;margin-left: 
+    auto;margin-right: auto;background-image: url(/images/foto1.jpg) ;height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;border:1px solid #dee1e3;margin-bottom:30px;}
+    .articles h3,p {text-align: center;}
+    .articles p{    padding-top: 235px;
+        font-size: 0.9em;}
+
+        .art {color:#25a2c3;font-weight: bold;}
+        .articles:nth-child(2) {background-image: url(/images/foto2.jpg);}
+        .articles:nth-child(3){background-image: url(/images/foto3.jpg);}
+
+        /* FOOTER */
+.footer {background-color: #25a2c3;height: 380px;text-align: center;}
+.footer h1 {    color: white;
+    font-size: 2em;
+    padding-top: 60px;
+    padding-bottom: 30px;}
+    li {color:#c8e7f0}
+    .footer p,a{color:#c8e7f0}
+    hr {    margin-right: 110px;
+        margin-left: 110px;
+        margin-top: 30px;
+        margin-bottom: 30px;}

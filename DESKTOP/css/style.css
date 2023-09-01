@@ -1,0 +1,69 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+body {font-family: 'Open Sans', sans-serif;color:#393d41;font-size: 1.2rem;line-height: 1.65;}
+h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif;font-weight: bold;line-height: 1.5;}
+
+/* HEADER */
+header img {width: 140px;padding-top:19px;}
+header {background-color: black;;height: 88px;padding-left:40px;}
+
+/* NAV */
+.navbar {background-image: url(../images/banner.jpg);     background-size: 100%;
+    background-position-x: center;}
+.navbar {height: 500px;text-align: center;}
+.navbar h1 {font-size: 2em;padding-top: 125px;line-height: 1;padding-bottom: 20px;color:#25a2c3 }
+.navbar p {padding-top: 20px; margin-right: 380px;
+    margin-left: 380px;padding-bottom: 30px;}
+.navbar button {width: 180px;
+    height: 60px;border-radius: 10px;background-color:#f04c2f;color:white;font-weight: bold;border:none;font-size: 0.9em; }
+
+    /* MAIN */
+    .main {height: 600px;}
+    .main h3 {color:#25a2c3;;padding-top: 0px;}
+    .main p {    padding-top: 2px; 
+         margin-bottom: 30px;}
+    .notebook {border-radius: 100%;padding-top: 100px;padding-left: 180px;margin-bottom: 100px;
+        width: 368px;}
+.side_art {text-align: start;    margin-left: 666px;
+    margin-top: -496px;;
+    
+    margin-right: 300px;
+    
+}
+        /* ASIDE */
+        .aside {background-color: #e22d0e;height: 330px;color:white;text-align: center;  
+              padding-top: 60px;
+              margin-bottom: 50px;}
+        .aside h1 {font-size: 1.9em;}
+        .aside p {    padding-top: 50px;
+            font-size: 1.5em;}
+            h5 {    padding-top: 20px;
+                font-weight: 400;
+                font-size: 1.2em;}
+                .ceo {font-size:0.6em;}
+
+                /* ARTICLES */
+                article {height: 500px;}
+.articles {border:1px solid #dee1e3;width: 26%;margin-left: 90px;text-align: center;}
+.correlati {width: 100%;}
+.articles h3 {color:#25a2c3}
+.articles p {font-size: 0.8em;}
+.articles  {float: left;
+display: block;}
+
+        /* FOOTER */
+.footer {background-color: #25a2c3;height: 380px;text-align: center;}
+.footer h1 {    color: white;
+    font-size: 2em;
+    padding-top: 60px;
+    padding-bottom: 30px;}
+    li {color:#c8e7f0}
+    .footer p,a{color:#c8e7f0}
+    hr {    margin-right: 610px;
+        margin-left: 610px;
+        margin-top: 30px;
+        margin-bottom: 30px;}
+        ul {    display: inline-block;
+            text-align: left;
+            list-style-type: none;}
